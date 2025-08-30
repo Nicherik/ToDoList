@@ -1,0 +1,26 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio",
+	"dir-cur-src" : "C:/Users/nikit/CLionProject/ToDoList",
+	"dir-top-bld" : "C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio",
+	"dir-top-src" : "C:/Users/nikit/CLionProject/ToDoList",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\nikit\\CLionProject\\ToDoList\\json",
+		"C:\\Users\\nikit\\CLionProject\\ToDoList\\src",
+		"C:\\Users\\nikit\\CLionProject\\ToDoList\\enums",
+		"C:\\Users\\nikit\\CLionProject\\ToDoList\\include",
+		"C:\\Users\\nikit\\CLionProject\\ToDoList\\interface",
+		"C:\\Users\\nikit\\CLionProject\\ToDoList\\external\\catch2"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio/CMakeFiles/ToDoList.dir"
+}

@@ -1,0 +1,23 @@
+# ninja log v6
+11	74	7767399896450266	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	d8e10e3f70b93504
+11	1352	7767410876960942	json-populate-prefix/src/json.tar.xz	822bfa9f044549a5
+1672	1750	7767410880945700	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	7e7e2136532e32c3
+1353	1410	7767410877535086	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	6eee46b6046606cc
+11	74	7767399896450266	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	d8e10e3f70b93504
+1411	1465	7767410878086019	json-populate-prefix/src/json-populate-stamp/json-populate-patch	2a3debe15e4ca1e3
+11	1352	7767410876960942	json-populate-prefix/src/json-populate-stamp/json-populate-download	822bfa9f044549a5
+11	1352	7767410876960942	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	822bfa9f044549a5
+11	1352	7767410876960942	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json.tar.xz	822bfa9f044549a5
+1353	1410	7767410877535086	json-populate-prefix/src/json-populate-stamp/json-populate-update	6eee46b6046606cc
+1518	1568	7767410879128225	json-populate-prefix/src/json-populate-stamp/json-populate-build	cb12be6fa696954c
+1411	1465	7767410878086019	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	2a3debe15e4ca1e3
+1672	1750	7767410880945700	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	7e7e2136532e32c3
+1465	1518	7767410878619368	json-populate-prefix/src/json-populate-stamp/json-populate-configure	3f731985f1b57f9c
+1465	1518	7767410878619368	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	3f731985f1b57f9c
+1518	1568	7767410879128225	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	cb12be6fa696954c
+1568	1619	7767410879635168	json-populate-prefix/src/json-populate-stamp/json-populate-install	ba8df0c7d3e3787d
+1620	1672	7767410880159084	json-populate-prefix/src/json-populate-stamp/json-populate-test	d186c857be57fb54
+1568	1619	7767410879635168	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	ba8df0c7d3e3787d
+1620	1672	7767410880159084	C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	d186c857be57fb54
+1672	1750	7767410880945700	CMakeFiles/json-populate-complete	7e7e2136532e32c3
+1672	1750	7767410880945700	json-populate-prefix/src/json-populate-stamp/json-populate-done	7e7e2136532e32c3

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/.gitattributes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enums/GetType.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enums/SortType.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/catch2/catch_amalgamated.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/catch2/catch_amalgamated.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/include/Functions.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/include/JsonTaskStorage.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/include/Task.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/include/TaskList.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/include/TaskService.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/ITaskStorage.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/exampleData.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/file_name.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/json.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/tasks.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JsonTaskStorage.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Task.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/TaskList.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/TaskService.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/TestJsonTaskStorage.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/TestTask.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/TestTaskList.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/TestTaskService.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/TestVars.hpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/testData.json" charset="UTF-8" />
+  </component>
+</project>

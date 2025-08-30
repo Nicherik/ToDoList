@@ -1,0 +1,26 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master",
+	"dir-top-bld" : "C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug",
+	"dir-top-src" : "C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\json",
+		"C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\src",
+		"C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\enums",
+		"C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\include",
+		"C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\interface",
+		"C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\external\\catch2"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug/CMakeFiles/ToDoList.dir"
+}

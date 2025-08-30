@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\ToDoList.dir\\src\\TaskService.cpp.obj",
+            "outputs": [
+                "C:\\Users\\nikit\\Downloads\\ToDoList-master\\ToDoList-master\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\ToDoList.dir\\src\\TaskService.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

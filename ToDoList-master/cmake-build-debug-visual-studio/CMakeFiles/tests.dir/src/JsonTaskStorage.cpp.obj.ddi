@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\tests.dir\\src\\JsonTaskStorage.cpp.obj",
+            "outputs": [
+                "C:\\Users\\nikit\\CLionProject\\ToDoList\\cmake-build-debug-visual-studio\\vc140.pdb",
+                "CMakeFiles\\tests.dir\\src\\JsonTaskStorage.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

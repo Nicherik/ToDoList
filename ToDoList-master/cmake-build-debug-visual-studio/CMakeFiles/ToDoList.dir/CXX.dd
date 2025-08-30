@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\ToDoList.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\ToDoList.dir\src\JsonTaskStorage.cpp.obj: dyndep
+
+build CMakeFiles\ToDoList.dir\src\TaskService.cpp.obj: dyndep
+
+build CMakeFiles\ToDoList.dir\src\Task.cpp.obj: dyndep
+
+build CMakeFiles\ToDoList.dir\src\TaskList.cpp.obj: dyndep
+

@@ -1,0 +1,19 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\tests.dir\tests\TestJsonTaskStorage.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\tests\TestTaskService.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\tests\TestTask.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\external\catch2\catch_amalgamated.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\tests\TestTaskList.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\src\Task.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\src\JsonTaskStorage.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\src\TaskService.cpp.obj: dyndep
+
+build CMakeFiles\tests.dir\src\TaskList.cpp.obj: dyndep
+

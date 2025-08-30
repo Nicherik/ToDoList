@@ -1,0 +1,4 @@
+C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio/CMakeFiles/ToDoList.dir
+C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio/CMakeFiles/tests.dir
+C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/nikit/CLionProject/ToDoList/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

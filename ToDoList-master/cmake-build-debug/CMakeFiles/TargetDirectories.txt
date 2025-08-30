@@ -1,0 +1,4 @@
+C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug/CMakeFiles/ToDoList.dir
+C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikit/Downloads/ToDoList-master/ToDoList-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

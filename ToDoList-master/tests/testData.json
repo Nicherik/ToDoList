@@ -1,0 +1,14 @@
+[
+    {
+        "deadline": "23-08-2025",
+        "description": "Some text",
+        "id": 1,
+        "priority": 1,
+        "status": 0,
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "title": "Test task"
+    }
+]
